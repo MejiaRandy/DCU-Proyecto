@@ -1,0 +1,16 @@
+Nombre: 1
+ Apellido: 2
+Cedula: 3
+Telefono: 1-(000)-000-0000
+
+locacion*********************
+
+provincia: 1
+Municipio: 2
+Sector: 3
+Coordenadas: 4
+
+problematica**************
+
+Problematica: Recogida de basura
+Descripcion: 123
